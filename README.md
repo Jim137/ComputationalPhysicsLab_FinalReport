@@ -12,7 +12,7 @@ $$
 
 where $$s_i=\pm 1$$ is the (spin) state of the atom. The first summation is over the nearest-neighbor (i) atom, while the second is summing over external magnetic flux that applied on specific (j) atom.
 
-### Evolving 
+### Evolving method
 
 If the energy E of a single atom is <0, then it flip. elseif flip with the probability of $$e^{-E\beta}$$ .
 
@@ -64,7 +64,7 @@ Several numerical methods, such as the split-step [Crank–Nicolson](https://en.
 
 Simulate a two-dimensional non-viscous fluid with the same equation of state as that of an adiabatic ideal gas. Based on the simulation results, discuss the differences found between a seven-velocity triangular lattice model and a nine-velocity square lattice model.
 
-### Evolving
+### Evolving method
 
 Collision step
 
@@ -107,7 +107,7 @@ $$
 
 White/Black stones can be viewed as two energy states. and we can use Ising model and Hamiltonian to precise characterize the intense interaction in Go gaming.
 
-### Something we can do
+### Something can do
 
 - Make a Go AI with genetic algorithm
 - Go matches analyzing by Ising model
