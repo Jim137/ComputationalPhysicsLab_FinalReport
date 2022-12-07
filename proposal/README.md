@@ -1,4 +1,4 @@
-# The TBD Subject of the Final Report
+# (Deprecated) The TBD Subject of the Final Report
 
 # 1.	Ising Model
 
